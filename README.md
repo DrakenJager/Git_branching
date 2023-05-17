@@ -121,7 +121,7 @@
 
 
     
-### 8. Запушить структуру на внешний репозиторий командами ``$git add .``, ``$git commit -m "add checklist.txt"`` и ``$git push``
+### 8. Запушить структуру на внешний репозиторий командами ``git add .``, ``git commit -m "add checklist.txt"`` и ``git push``
     
 ### 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 
